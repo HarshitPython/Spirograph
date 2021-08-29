@@ -2,10 +2,10 @@ from turtle import Turtle,Screen, color
 import random
 import turtle
 
-#create a turtle.
+#Create a turtle.
 tim = Turtle()
 
-#create a function to access random colours.
+#Create a function to access random colours.
 def random_color():
     r = random.randint(0,255)
     g = random.randint(0,255)
@@ -16,7 +16,9 @@ def random_color():
 
 #Increase the speed.
 tim.speed("fastest")
+
 turtle.colormode(255)
+
 
 def draw_spirograph(size_of_gap):
     for _ in range(int(360/size_of_gap)):
