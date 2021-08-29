@@ -17,11 +17,7 @@
 # table = PrettyTable()
 
 
-# table.add_column("Pokemon name",["Pikachu", "Squirtle","Charmander"])
-# table.add_column("Type",["Electric","Water","Fire"])
-# table.align = "r"
-# print(table.align)
-# print(table)
+
 
 from turtle import Turtle,Screen, color
 import random
