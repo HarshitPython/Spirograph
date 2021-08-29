@@ -67,8 +67,7 @@ def random_color():
     color = (r, g, b)
     return color
 
-# directions = [0, 90, 180, 270]
-# tim.pensize(15)
+
 tim.speed("fastest")
 turtle.colormode(255)
 
