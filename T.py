@@ -14,10 +14,7 @@ tim = Turtle()
 
 
 
-'''Move a turtle'''
-# for _ in range(4):
-#     tim.forward(50)
-#     tim.right(90)
+
 
 '''Draw a dashed line'''
 
