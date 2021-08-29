@@ -2,6 +2,7 @@ from turtle import Turtle,Screen, color
 import random
 import turtle
 
+#create a turtle.
 tim = Turtle()
 
 def random_color():
