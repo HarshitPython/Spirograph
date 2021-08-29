@@ -15,8 +15,6 @@ def random_color():
 tim.speed("fastest")
 turtle.colormode(255)
 
-
-
 def draw_spirograph(size_of_gap):
     for _ in range(int(360/size_of_gap)):
         
