@@ -72,10 +72,7 @@ def random_color():
 tim.speed("fastest")
 turtle.colormode(255)
 
-# for _ in range(200):
-#     tim.color(random_color())
-#     tim.forward(30)
-#     tim.setheading(random.choice(directions))
+
 
 def draw_spirograph(size_of_gap):
     for _ in range(int(360/size_of_gap)):
