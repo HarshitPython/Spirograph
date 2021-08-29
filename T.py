@@ -18,19 +18,7 @@ tim = Turtle()
 
 
 
-'''Draw different shapes'''
 
-# colours = ["red", "blue", "green", "yellow", "pink", "brown", "orange", "coral"]
-
-# def draw_shape(number_of_sides):
-#     angle = 360/number_of_sides
-#     for _ in range(number_of_sides):
-#         tim.forward(80)
-#         tim.right(angle)
-
-# for shape_side_n in range(3,11):
-#     tim.color(random.choice(colours))
-#     draw_shape(shape_side_n)
 
 '''Draw a random walk'''
 
