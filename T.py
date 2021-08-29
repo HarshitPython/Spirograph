@@ -20,7 +20,7 @@ tim = Turtle()
 
 
 
-'''Draw a random walk'''
+
 
 def random_color():
     r = random.randint(0,255)
