@@ -19,7 +19,7 @@ tim.speed("fastest")
 
 turtle.colormode(255)
 
-
+#Draw the spirograph.
 def draw_spirograph(size_of_gap):
     for _ in range(int(360/size_of_gap)):
         
