@@ -12,9 +12,7 @@ import turtle
 
 tim = Turtle()
 
-'''Draw a turtle'''
-# tim.shape("turtle")
-# tim.color("orange")
+
 
 '''Move a turtle'''
 # for _ in range(4):
