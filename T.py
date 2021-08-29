@@ -1,9 +1,6 @@
 
 
-# timmy.shape("turtle")
-# timmy.color("coral")
-# timmy.forward(50)
-# timmy.back(300)
+
 
 # my_screen = Screen()
 # print(my_screen.canvheight)
