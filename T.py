@@ -12,7 +12,6 @@ def random_color():
     color = (r, g, b)
     return color
 
-
 tim.speed("fastest")
 turtle.colormode(255)
 
