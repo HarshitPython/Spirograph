@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 from turtle import Turtle,Screen, color
 import random
 import turtle
